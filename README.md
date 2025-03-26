@@ -37,10 +37,6 @@ The dashboard includes the following key visuals:
 * **Sales Rep Performance:** The table provides detailed information on sales rep performance.
 * **Time-Based Trends:** The line chart shows revenue trends over years and quarters.
 
-## Data Source
-
-* [Specify the data source here. For example: CSV file, Excel spreadsheet, SQL database.]
-
 ## Future Enhancements
 
 * Add more detailed product information.
@@ -48,8 +44,3 @@ The dashboard includes the following key visuals:
 * Integrate with real-time data sources.
 * Add more interactive elements and visualizations.
 
-## Contact
-
-For any questions or suggestions, please contact:
-
-* [Your Name/Email]
